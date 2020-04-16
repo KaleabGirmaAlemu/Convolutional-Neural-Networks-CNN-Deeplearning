@@ -20,7 +20,11 @@ Objectives:
 Topics:   
 ---
 •	Convolutional Model Implementation  
+
 •	CNN Applications  
+
 •	Residual Networks  
+
 •	YOLO Algorithm  
+
 •	Face verification & Face recognition 
